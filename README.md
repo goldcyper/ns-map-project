@@ -86,7 +86,7 @@ Row 2: Nation | URL | #BFBFBF    |  (Optional)          | #fff         |  .97482
 
 ### Editing the HTML page
 
-This is something that really only needs to have edits to the style sheet portion, but the style sheet could be hosted as a seperate file.
+The style sheet could be hosted as a seperate file, or kept together in a Self-Contained HTML file as shown in the example below. 
 
 1. Open/Edit the HTML page in your chosen Editor or Github.
 
@@ -105,7 +105,13 @@ Look for the following:
         }
     </style>
 
-2. Follow the steps discussed in Installation for editing the file again.
+These are the styles for the svg map.
+
+Editing the background-color to another hex color would change the color.
+
+Editing the font-size would change the size of the text, while editing the font-weight would change the weight of the text.
+
+If you want understand more how to edit css text and css colors, you are advised to visit: https://www.w3schools.com/css/css_text.asp
 
 ### Self-Contained HTML Example:
 
