@@ -39,6 +39,7 @@ This is something that really only needs to have edits to the style sheet portio
 1. Open/Edit the HTML page in your chosen Editor or Github.
 
 Look for the following:
+
     <title>Interactive SVG Map</title>
     <style>
         svg {
