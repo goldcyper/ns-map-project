@@ -58,7 +58,7 @@ Look for the following:
 2. Follow the steps discussed in Installation for editing the file again.
 
 ### Make a Web Page when in Browser:
-![Image of Output](https://github.com/newrogerns/lazmap-ns/preview/webpage-preview.PNG)
+![Image of Output]([https://github.com/newrogerns/ns-map-project/map-example.PNG])
 
 ## Author
 [newrogerns](https://github.com/newrogerns)
