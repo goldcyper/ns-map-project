@@ -31,6 +31,7 @@ The CSV or Data file is something you will edit often unless you keep the map th
 Row 1: Label  | URL | Fill Color | Label (X,Y) Position | Stroke Color | Stroke Width | SVG Path   |
 
 Row 2: Nation | URL | #BFBFBF    |                      | #fff         |  .97482px    | m1744[...] |
+
 [...]
 
 ### Editing the HTML page
