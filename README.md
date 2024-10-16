@@ -107,6 +107,18 @@ Look for the following:
 
 2. Follow the steps discussed in Installation for editing the file again.
 
+### Self-Contained HTML Example:
+
+This is a self-contained html file that links to a google spreadsheet: https://github.com/goldcyper/ns-map-project/blob/main/regional-map.html
+
+This might be easier to use if you just want to edit a single html file and not have to host multiple files.
+
+### CSV HTML File Example:
+
+This is an example CSV file used in the self-contained file: https://docs.google.com/spreadsheets/d/1WqdPXvlTyvYHbhkGmvTaLwvhkRyNrFhbTB3W8JJuSHE/edit?usp=sharing
+
+You can use this to copy your own google spreedsheet file.
+
 ### Output in Browser:
 ![Image of Output](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/map-example.png)
 
