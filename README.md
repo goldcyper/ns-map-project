@@ -59,6 +59,7 @@ Look for the following:
 
 ## Author
 [newrogerns](https://github.com/newrogerns)
+
 Otherwise known as [New Rogernomics](https://nationstates.net/nation=New_Rogernomics) on Nationstates
 
 ## Acknowledgments
