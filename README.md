@@ -44,10 +44,10 @@ Web design format
 <ul>
   <li>yourhosting\public_html\regional_map\</li>
   <li>yourhosting\public_html\regional_map\css</li>
-  <li>yourhosting\public_html\regional_map\scripts</li>
+  <li>yourhosting\public_html\regional_map\js</li>
 </ul>
 
-2. Upload the regional map html file in the regional_map folder, and call it whatever you wish such as index.html or regional-map.html
+2. Upload the regional map html file in the regional_map folder, and call it whatever you wish such as index.html
 
 3. Upload the style.css file to the css folder, but if you rename this, you must also rename it in the html file.
 
@@ -59,13 +59,13 @@ The fetch in the javascript file refers to taking the data from the csv file to 
 
 This is an example fetch from github:
 
-fetch('https://github.com/goldcyper/ns-map-project/blob/main/CSV.csv')
+fetch('CSV.csv')
 
-If you are using a google sheet it would look something like this:
+If you are using a google sheet or a web page it would look something like this:
 
 <ul>
-  <li>Placeholder</li>
-  <li>Placeholder</li>
+  <li>[https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT_iOZlIetp7jw_IT70nmOO55vXqZfyuL7BfdV4pYfhexJzbFTN2-RWHpn5SDOzQqn5XiUqMQNKig/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT_iOZlIetp7jw_IT70nmOO55vXqZfyuL7BfdV4pYfhexJzbFTN2-RWHpn5SDOzQqn5XiUqMQNKig/pubhtml)</li>
+  <li>[https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT_iOZlIetp7jw_IT70nmOO55vXqZfyuL7BfdV4pYfhexJzbFTN2-RWHpn5SDOzQqn5XiUqMQNKig/pub?output=csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT_iOZlIetp7jw_IT70nmOO55vXqZfyuL7BfdV4pYfhexJzbFTN2-RWHpn5SDOzQqn5XiUqMQNKig/pub?output=csv)</li>
   <li>Placeholder</li>
 </ul>
 
