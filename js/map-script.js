@@ -1,5 +1,5 @@
         document.addEventListener("DOMContentLoaded", function() {
-            fetch('https://github.com/goldcyper/ns-map-project/blob/main/CSV.csv')
+            fetch('CSV.csv')
                 .then(response => response.text())
                 .then(html => {
                     const parser = new DOMParser();
