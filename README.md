@@ -28,8 +28,8 @@ The CSV or Data file is something you will edit often unless you keep the map th
 
 1. Maintain the format of the first row being the header row:
 
-Row 1: Nation      | URL                                         | Fill Color | Label (X,Y) Position | Stroke Color | Stroke Width | Path
-Row 2: Nation Name | https://nationstates.net/nation=nation_name | #BFBFBF    |                      | #fff         |  .97482px    | SVG Path ie. m1744[...]
+Row 1: Label  | URL | Fill Color | Label (X,Y) Position | Stroke Color | Stroke Width | SVG Path   |
+Row 2: Nation | URL | #BFBFBF    |                      | #fff         |  .97482px    | m1744[...] |
 [...]
 
 ### Editing the HTML page
