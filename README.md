@@ -57,7 +57,7 @@ Look for the following:
 
 2. Follow the steps discussed in Installation for editing the file again.
 
-### Make a Web Page when in Browser:
+### Output in Browser:
 ![Image of Output](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/map-example.png)
 
 ## Author
