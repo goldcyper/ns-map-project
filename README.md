@@ -29,9 +29,9 @@ Follow these instructions to set up a regional svg map on github or your own hos
 
 ### Hosting on Github
 
-This will go through the process of hosting the 
+This will go through the process of hosting on gitub.
 
-1. It is easier to just fork this repository on your github account and rename it, but you could create a new repository manually too, up to you.
+1. It is easier to just fork this repository on your github account and rename it and modify files, but you could create a new repository manually as well. 
 
 ### Hosting on web hosting
 
@@ -57,16 +57,10 @@ Editing the javascript file
 
 The fetch in the javascript file refers to taking the data from the csv file to use for your map.
 
-This is an example fetch from github:
-
-fetch('CSV.csv')
-
-If you are using a google sheet or a web page it would look something like this:
+This is an example fetch from a google spreadsheet:
 
 <ul>
-  <li>https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT_iOZlIetp7jw_IT70nmOO55vXqZfyuL7BfdV4pYfhexJzbFTN2-RWHpn5SDOzQqn5XiUqMQNKig/pubhtml</li>
-  <li>https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT_iOZlIetp7jw_IT70nmOO55vXqZfyuL7BfdV4pYfhexJzbFTN2-RWHpn5SDOzQqn5XiUqMQNKig/pub?output=csv</li>
-  <li>https://www.mywebsite.com/CSV.csv</li>
+  <li>fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT_iOZlIetp7jw_IT70nmOO55vXqZfyuL7BfdV4pYfhexJzbFTN2-RWHpn5SDOzQqn5XiUqMQNKig/pubhtml')</li>
 </ul>
 
 ### Running the Project
@@ -84,7 +78,7 @@ Row 2: Nation | URL | #BFBFBF    |  (Optional)          | #fff         |  .97482
 
 [...]
 
-### Editing the HTML page
+### Editing the HTML page and CSS
 
 The style sheet could be hosted as a seperate file, or kept together in a Self-Contained HTML file as shown in the example below. 
 
@@ -102,14 +96,25 @@ Look for the following:
         .label {
             font-size: 12px;
             font-weight: bold;
+            color: black;
         }
     </style>
 
-These are the styles for the svg map.
+Breaking this down into two parts, SVG and Label.
 
-Editing the background-color to another hex color would change the color.
+SVG and general map:
+  <ul>
+  <li><title>Interactive SVG Map</title> sets the title of the map</li>
+  <li>width and height is best left alone as this exists to make the map responsive</li>
+  <li>background-color: lightgray is setting the map background to lightgray, but you might want this as lightblue, white, or another hex color</li>
+</ul>
 
-Editing the font-size would change the size of the text, while editing the font-weight would change the weight of the text.
+Label in map:
+  <ul>
+  <li>font-size: 12px; sets the size of the text to 12px</li>
+  <li>font-weight: bold; sets the font-weight to bold, but it could be any other weight</li>
+  <li>color: black; sets the color of the labels to black, or another hex color</li>
+</ul>
 
 If you want understand more how to edit css text and css colors, you are advised to visit: https://www.w3schools.com/css/css_text.asp
 
