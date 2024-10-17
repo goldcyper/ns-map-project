@@ -149,6 +149,29 @@ Label in map:
 
 If you want understand more how to edit css text and css colors, you are advised to visit: https://www.w3schools.com/css/css_text.asp
 
+### Preparing SVG File
+
+It is reccomended to open the file in Inkscape and then save it first, as Inkscape will make it a lot nicer to view.
+
+You need to extract the path data from the svg image:
+
+ <path
+   d="m 1744.6756,471.13573 1.0116,-1.64571 0.5057,-0.41143 h 5.0577 l 2.5289,4.52571 3.0346,0.82285 0.5058,2.88 4.5519,2.87999 v 0.41143 l 1.5173,3.70285 3.0347,1.64572 1.0115,-0.41143 5.0577,2.46857 h 0.5058 l 5.0577,1.64571 0.5058,2.87999 -2.0231,2.88 1.5173,3.29142 -1.0115,2.88 1.0115,1.23428 1.5173,1.64572 2.5289,0.41142 4.5519,3.29143 v 0.41143 l -0.5058,3.29142 1.0116,2.05714 -0.5058,4.11428 1.0116,1.23428 2.023,0.82286 h 5.0578 l 3.0346,1.23428 -2.5289,4.93714 -3.0346,1.23428 -1.5173,-0.41142 -4.0462,0.82285 -1.5173,-0.41143 -3.0346,0.82286 -3.5404,3.70285 v 0.41143 l -1.0116,4.52571 -5.0577,0.82285 -3.5404,-4.93713 -2.0231,-0.41143 -4.0461,2.05714 -2.5289,-0.82286 -7.5865,2.05714 -3.0347,-1.64571 -7.5865,4.11428 v 0.82286 l -6.5751,4.93713 -4.5519,-3.29142 -2.0231,0.82286 -6.0692,-2.05714 -0.5058,-2.88 1.0115,-1.64571 v -2.88 l 0.5058,-0.82285 -0.5058,-3.70286 2.0231,-2.05714 -0.5057,-4.5257 4.0461,-1.23429 3.5404,0.82286 1.5173,-0.41143 1.0116,-3.29142 -4.0462,-2.88 1.0115,-1.23428 -1.0115,-4.11428 -1.0115,-0.82286 6.575,-3.29142 -2.5289,-5.34857 h -0.5057 v -0.41143 l -2.5289,-3.29142 0.5058,-3.29142 4.0461,-2.46857 1.0116,-3.29143 -1.0116,-0.41142 v -4.11428 l 0.5058,-0.82286 -1.5173,-3.29142 6.0693,-2.46857 v -1.64571 l 4.0461,-2.46857"
+   style="fill:#b9b9b9;stroke:#ffffff;stroke-width:0.971636px"
+   id="path1" />
+
+This is an example of what you might see, but this is deisgned to work only needing the path
+
+If you open Notepad++, Visual Studio Code, and most editors, there will be a find and replace feature under the file menu:
+
+![Image of Find and Replace ALL](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/Find%20and%20Replace.png)
+
+Find and Replace the <path d=" with nothing.
+
+Find and Replace the " with nothing.
+
+This is just my preference to make it easy to copy/paste, and there are other ways to do this.
+
 ### Self-Contained HTML Example:
 
 This is a self-contained html file that links to a google spreadsheet: https://github.com/goldcyper/ns-map-project/blob/main/regional-map.html
@@ -160,6 +183,10 @@ This might be easier to use if you just want to edit a single html file and not 
 This is an example CSV file used in the self-contained file: https://docs.google.com/spreadsheets/d/1WqdPXvlTyvYHbhkGmvTaLwvhkRyNrFhbTB3W8JJuSHE/edit?usp=sharing
 
 You can use this to copy your own google spreedsheet file.
+
+### Editing in Inkscape
+
+If you want a tutorial for editing in Inkscape read my disaptch here: https://www.nationstates.net/page=dispatch/id=1433615#Editing
 
 ### Output in Browser:
 ![Image of Output](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/map-example.png)
