@@ -180,7 +180,9 @@ This is just my preference to make it easy to copy/paste, and there are other wa
 
 You can either copy/paste each path panstackingly by hand or use a text file to csv converter.
 
-Then once you have the CSV File you can copy/paste all the paths into a google spreedsheet.
+Example of a txt to csv converter is here: https://convertio.co/txt-csv/
+
+Then once you have the CSV File you can copy/paste all the paths into a google spreadsheet.
 
 ### Self-Contained HTML Example:
 
@@ -192,7 +194,7 @@ This might be easier to use if you just want to edit a single html file and not 
 
 This is an example CSV file used in the self-contained file: https://docs.google.com/spreadsheets/d/1WqdPXvlTyvYHbhkGmvTaLwvhkRyNrFhbTB3W8JJuSHE/edit?usp=sharing
 
-You can use this to copy your own google spreedsheet file.
+You can use this to copy your own google spreadsheet file.
 
 ### Editing in Inkscape
 
