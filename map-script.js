@@ -1,5 +1,5 @@
    document.addEventListener("DOMContentLoaded", function() {
-            fetch('CSV.csv')
+            fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTXT_iOZlIetp7jw_IT70nmOO55vXqZfyuL7BfdV4pYfhexJzbFTN2-RWHpn5SDOzQqn5XiUqMQNKig/pubhtml')
                 .then(response => response.text())
                 .then(html => {
                     const parser = new DOMParser();
