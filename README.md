@@ -35,9 +35,9 @@ This will go through the process of hosting on gitub.
 
 The final directory path would look something like this if you want to host it on github:
 <ul>
-  <li>yourhosting\public_html\regional_map\index.html</li>
-  <li>yourhosting\public_html\regional_map\css\style.css</li>
-  <li>yourhosting\public_html\regional_map\js\map-script.js</li>
+  <li>your_account_name/ns-map-project/index.html</li>
+  <li>your_account_name/ns-map-project/css/style.css</li>
+  <li>your_account_name/ns-map-project/js/map-script.js</li>
 </ul>
 
 Alternatively you could just use the self-contained html example shown further below.
@@ -51,9 +51,9 @@ Web design format
 1. On your hosting account create the directory as follows:
 
 <ul>
-  <li>yourhosting\public_html\regional_map\</li>
-  <li>yourhosting\public_html\regional_map\css</li>
-  <li>yourhosting\public_html\regional_map\js</li>
+  <li>yourhosting/public_html/regional_map\</li>
+  <li>yourhosting/public_html/regional_map\css</li>
+  <li>yourhosting/public_html/regional_map\js</li>
 </ul>
 
 2. Upload the regional map html file in the regional_map folder, and call it whatever you wish such as index.html
@@ -64,9 +64,9 @@ Web design format
 
 The final directory path would look something like this:
 <ul>
-  <li>yourhosting\public_html\regional_map\index.html</li>
-  <li>yourhosting\public_html\regional_map\css\style.css</li>
-  <li>yourhosting\public_html\regional_map\js\map-script.js</li>
+  <li>yourhosting/public_html/regional_map/index.html</li>
+  <li>yourhosting/public_html/regional_ma/css\style.css</li>
+  <li>yourhosting/public_html/regional_map/js\map-script.js</li>
 </ul>
 
 Alternatively you could just use the self-contained html example shown further below.
@@ -183,6 +183,8 @@ You can either copy/paste each path painstackingly by hand or use a text file to
 Example of a txt to csv converter is here: https://convertio.co/txt-csv/
 
 Then once you have the CSV File you can copy/paste all the paths into a google spreadsheet.
+
+When you are done it would look something like this in the google spreadsheet: https://github.com/goldcyper/ns-map-project/blob/main/CSV.csv
 
 ### Self-Contained HTML Example:
 
