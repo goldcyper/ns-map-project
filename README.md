@@ -78,6 +78,18 @@ Row 2: Nation | URL | #BFBFBF    |  (Optional)          | #fff         |  .97482
 
 [...]
 
+2. Add your data such as the nation names, nation urls, fill colors for each nation, label positions (optional), and so on
+
+3. Publish the google spreadsheet to the web:
+
+![File Share](Map CSV Step 1.png)
+
+![Publish to Web](Map CSV Step 2.png)
+
+You might also want to share this file so others can view it:
+
+![Share CSV](Share CSV.png)
+
 ### Editing the HTML page and CSS
 
 The style sheet could be hosted as a seperate file, or kept together in a Self-Contained HTML file as shown in the example below. 
