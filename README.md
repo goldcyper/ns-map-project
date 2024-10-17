@@ -82,13 +82,13 @@ Row 2: Nation | URL | #BFBFBF    |  (Optional)          | #fff         |  .97482
 
 3. Publish the google spreadsheet to the web:
 
-![File Share](Map CSV Step 1.png)
+![File Share](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/Map%20CSV%20Step%201.png)
 
-![Publish to Web](Map CSV Step 2.png)
+![Publish to Web](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/Map%20CSV%20Step%202.png)
 
 You might also want to share this file so others can view it:
 
-![Share CSV](Share CSV.png)
+![Share CSV](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/Map%20CSV%20Step%201.png)
 
 ### Editing the HTML page and CSS
 
