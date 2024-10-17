@@ -31,7 +31,16 @@ Follow these instructions to set up a regional svg map on github or your own hos
 
 This will go through the process of hosting on gitub.
 
-1. It is easier to just fork this repository on your github account and rename it and modify files, but you could create a new repository manually as well. 
+1. It is easier to just fork this repository on your github account and rename it and modify files, but you could create a new repository manually as well.
+
+The final directory path would look something like this if you want to host it on github:
+<ul>
+  <li>yourhosting\public_html\regional_map\index.html</li>
+  <li>yourhosting\public_html\regional_map\css\style.css</li>
+  <li>yourhosting\public_html\regional_map\js\map-script.js</li>
+</ul>
+
+Alternatively you could just use the self-contained html example shown further below.
 
 ### Hosting on web hosting
 
@@ -53,6 +62,15 @@ Web design format
 
 4. Upload the map-script.js file to the scripts folder
 
+The final directory path would look something like this:
+<ul>
+  <li>yourhosting\public_html\regional_map\index.html</li>
+  <li>yourhosting\public_html\regional_map\css\style.css</li>
+  <li>yourhosting\public_html\regional_map\js\map-script.js</li>
+</ul>
+
+Alternatively you could just use the self-contained html example shown further below.
+
 Editing the javascript file
 
 The fetch in the javascript file refers to taking the data from the csv file to use for your map.
@@ -64,7 +82,8 @@ This is an example fetch from a google spreadsheet:
 </ul>
 
 ### Running the Project
-Placeholder
+
+1. If you are using github to run the project you just need to have the files hosted 
 
 ### Editing the CSV or Data File
 
