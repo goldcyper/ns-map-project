@@ -3,7 +3,7 @@ Regional Map - HTML & JS SVG Map
 
 This project was created to allow for easy editing of a HTML SVG map without creating a full on web application.
 
-Live Preview Link: Placeholder
+Live Preview Link: https://goldcyper.github.io/ns-map-project/
 
 # Set Up Instructions
 Follow these instructions to set up a regional svg map on github or your own hosting
@@ -21,7 +21,7 @@ Follow these instructions to set up a regional svg map on github or your own hos
 1. There are multiple ways you could host this map:
 
 <ul>
-  <li>Create a new github account and use it to specifically host a forked project such as: https://github.com/github_account_name/regional_map</li>
+  <li>Create a new github account and use it to specifically host a forked project such as: https://github_account_name.github.io/ns-map-project/</li>
   <li>Self host on your own web host such as: https://www.example_page.com/regional_map</li>
 </ul>
 
