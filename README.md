@@ -51,9 +51,9 @@ Web design format
 1. On your hosting account create the directory as follows:
 
 <ul>
-  <li>yourhosting/public_html/regional_map\</li>
-  <li>yourhosting/public_html/regional_map\css</li>
-  <li>yourhosting/public_html/regional_map\js</li>
+  <li>yourhosting/public_html/regional_map/</li>
+  <li>yourhosting/public_html/regional_map/css</li>
+  <li>yourhosting/public_html/regional_map/js</li>
 </ul>
 
 2. Upload the regional map html file in the regional_map folder, and call it whatever you wish such as index.html
