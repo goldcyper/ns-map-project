@@ -88,7 +88,7 @@ Row 2: Nation | URL | #BFBFBF    |  (Optional)          | #fff         |  .97482
 
 You might also want to share this file so others can view it:
 
-![Share CSV](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/Map%20CSV%20Step%201.png)
+![Share CSV](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/Share%20CSV.png)
 
 ### Editing the HTML page and CSS
 
