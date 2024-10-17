@@ -178,7 +178,7 @@ This is just my preference to make it easy to copy/paste, and there are other wa
 
 ### Copying the Path Data
 
-You can either copy/paste each path panstackingly by hand or use a text file to csv converter.
+You can either copy/paste each path painstackingly by hand or use a text file to csv converter.
 
 Example of a txt to csv converter is here: https://convertio.co/txt-csv/
 
