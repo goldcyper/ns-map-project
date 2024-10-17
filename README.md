@@ -206,7 +206,7 @@ If you want a tutorial for editing in Inkscape read my disaptch here: https://ww
 ![Image of Output](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/map-example.png)
 
 ## Author
-[newrogerns](https://github.com/newrogerns)
+[goldcyper](https://github.com/goldcyper)
 
 Otherwise known as [New Rogernomics](https://nationstates.net/nation=New_Rogernomics) on Nationstates
 
