@@ -65,8 +65,8 @@ Web design format
 The final directory path would look something like this:
 <ul>
   <li>yourhosting/public_html/regional_map/index.html</li>
-  <li>yourhosting/public_html/regional_ma/css\style.css</li>
-  <li>yourhosting/public_html/regional_map/js\map-script.js</li>
+  <li>yourhosting/public_html/regional_ma/css/style.css</li>
+  <li>yourhosting/public_html/regional_map/js/map-script.js</li>
 </ul>
 
 Alternatively you could just use the self-contained html example shown further below.
