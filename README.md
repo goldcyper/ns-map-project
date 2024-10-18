@@ -28,6 +28,8 @@ Follow these instructions to set up a regional svg map on github or your own hos
 
 2. Once you have decided where you plan to host it, then you need to decide whether to host the csv file, which I'd highly recommend be through a google sheet or equivalent.
 
+Note: It will take time to update the file, so it not loading the map data instantly upon you editing the file is normal. 
+
 ### Hosting on Github
 
 This will go through the process of hosting on gitub.
