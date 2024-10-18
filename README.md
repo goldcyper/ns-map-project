@@ -45,6 +45,8 @@ The final directory path would look something like this if you want to host it o
 
 Alternatively you could just use the self-contained html example shown further below.
 
+Note: This is just an example, you could make yours a short url like /map/index.html
+
 2. Deploy your Page
 
 ![Deploy Page](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/Deploy%20Page.png)
