@@ -219,4 +219,4 @@ If you want a tutorial for editing in Inkscape read my disaptch here: https://ww
 Otherwise known as [New Rogernomics](https://nationstates.net/nation=New_Rogernomics) on Nationstates
 
 ## Acknowledgments
-Acknowledgments to [Microsoft Co Pilot](https://copilot.microsoft.com/), which was really useful in helping me troubleshoot
+Acknowledgments to [Microsoft CoPilot](https://copilot.microsoft.com/), which was really useful in helping me troubleshoot
