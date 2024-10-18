@@ -152,7 +152,7 @@ SVG and general map:
   <ul>
   <li><title>Interactive SVG Map</title> sets the title of the map</li>
   <li>width and height is best left alone as this exists to make the map responsive</li>
-  <li>background-color: lightgray is setting the map background to lightgray, but you might want this as lightblue, white, or another hex color</li>
+  <li>background-color: white; is setting the map background to white, but you might want this as lightblue or another hex color</li>
 </ul>
 
 Label in map:
