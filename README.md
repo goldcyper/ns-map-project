@@ -42,6 +42,14 @@ The final directory path would look something like this if you want to host it o
 
 Alternatively you could just use the self-contained html example shown further below.
 
+2. Deploy your Page
+
+![Deploy Page](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/Deploy%20Page.png)
+
+Go to Settings -> Pages i.e. https://github.com/your_github_account/ns-map-project/settings/pages
+
+Select Deploy from Branch and Main /root in this example.
+
 ### Hosting on web hosting
 
 There are two options here, to either put it all in a single html file that links to a csv file, or to use the web design format.
