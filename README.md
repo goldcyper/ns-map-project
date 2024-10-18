@@ -15,6 +15,7 @@ Follow these instructions to set up a regional svg map on github or your own hos
 * Some knowledge of HTML and CSS (to edit the HTML file)
 * Google Spreadsheet or equivalent service for hosting the CSV file
 * Github account or hosting provider for the HTML file
+* A SVG file for use as a map
 
 ### Hosting Options
 
