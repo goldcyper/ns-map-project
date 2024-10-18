@@ -204,7 +204,7 @@ This might be easier to use if you just want to edit a single html file and not 
 
 This is an example CSV file used in the self-contained file: https://docs.google.com/spreadsheets/d/1WqdPXvlTyvYHbhkGmvTaLwvhkRyNrFhbTB3W8JJuSHE/edit?usp=sharing
 
-You can use this to copy your own google spreadsheet file.
+You can use this to copy your own google spreadsheet file to use in your project.
 
 ### Editing in Inkscape
 
