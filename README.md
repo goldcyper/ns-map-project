@@ -105,6 +105,8 @@ Row 2: Nation | URL | #BFBFBF    |  (Optional)          | #fff         |  .97482
 
 [...]
 
+Whenever you add a new row be sure to include the Stroke Color and Stroke Width or specific your own for each nation.
+
 2. Add your data such as the nation names, nation urls, fill colors for each nation, label positions (optional), and so on
 
 3. Publish the google spreadsheet to the web:
@@ -205,6 +207,10 @@ This might be easier to use if you just want to edit a single html file and not 
 This is an example CSV file used in the self-contained file: https://docs.google.com/spreadsheets/d/1KM0vFZc7qK2wL_lJnCyvpXqMIa6ic6EizSH0-uh6K-8/edit?usp=sharing
 
 You can use this to copy your own google spreadsheet file to use in your project.
+
+### Creating an SVG File
+
+In the case of Nationstates purposes I would strongly suggest generating your SVG with Azgaar's Fantasy Map Generator: https://azgaar.github.io/Fantasy-Map-Generator/
 
 ### Editing in Inkscape
 
