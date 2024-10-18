@@ -65,7 +65,7 @@ Web design format
 The final directory path would look something like this:
 <ul>
   <li>yourhosting/public_html/regional_map/index.html</li>
-  <li>yourhosting/public_html/regional_ma/css/style.css</li>
+  <li>yourhosting/public_html/regional_map/css/style.css</li>
   <li>yourhosting/public_html/regional_map/js/map-script.js</li>
 </ul>
 
@@ -101,13 +101,13 @@ Row 2: Nation | URL | #BFBFBF    |  (Optional)          | #fff         |  .97482
 
 3. Publish the google spreadsheet to the web:
 
-![File Share](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/Map%20CSV%20Step%201.png)
+![File Share](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/Map%20CSV%20Step%201.png)
 
-![Publish to Web](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/Map%20CSV%20Step%202.png)
+![Publish to Web](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/Map%20CSV%20Step%202.png)
 
 You might also want to share this file so others can view it:
 
-![Share CSV](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/Share%20CSV.png)
+![Share CSV](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/Share%20CSV.png)
 
 ### Editing the HTML page and CSS
 
@@ -164,7 +164,7 @@ This is an example of what you might see, but this is deisgned to work only need
 
 If you open Notepad++, Visual Studio Code, and most editors, there will be a find and replace feature under the file menu:
 
-![Image of Find and Replace ALL](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/Find%20and%20Replace.png)
+![Image of Find and Replace All](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/Find%20and%20Replace.png)
 
 Find and Replace the <path d=" with nothing.
 
@@ -203,7 +203,9 @@ You can use this to copy your own google spreadsheet file.
 If you want a tutorial for editing in Inkscape read my disaptch here: https://www.nationstates.net/page=dispatch/id=1433615#Editing
 
 ### Output in Browser:
-![Image of Output](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/map-example.png)
+![Image of Output](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/map-example.png)
+
+https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/Find%20and%20Replace.png
 
 ## Author
 [goldcyper](https://github.com/goldcyper)
