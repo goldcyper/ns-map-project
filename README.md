@@ -213,8 +213,6 @@ If you want a tutorial for editing in Inkscape read my disaptch here: https://ww
 ### Output in Browser:
 ![Image of Output](https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/map-example.png)
 
-https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/Find%20and%20Replace.png
-
 ## Author
 [goldcyper](https://github.com/goldcyper)
 
