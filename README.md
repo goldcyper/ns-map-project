@@ -130,7 +130,7 @@ Look for the following:
         svg {
             width: 100%;
             height: auto;
-            background-color: lightgray;
+            background-color: white;
         }
         .label {
             font-size: 12px;
