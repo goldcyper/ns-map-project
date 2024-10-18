@@ -1,4 +1,5 @@
 /* SVG File CSS */
+/* Edit background-color: white; to hex background color of your choice for map */
 
 svg {
     width: 100%;
@@ -7,6 +8,7 @@ svg {
 }
 
 /* Label CSS */
+/* Edit color:black; to hex color of your choice for label text */
 
 .label {
     width: 100%;
