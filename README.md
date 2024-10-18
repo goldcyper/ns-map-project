@@ -3,6 +3,10 @@ Regional Map - HTML & JS SVG Map
 
 This project was created for use for the Nationstates region of Lazarus.
 
+This is not hosted on github, but at our regional map page: https://nslazarus.com/laz-map/
+
+This is our repository for use by our role-playing community. 
+
 ## Other Projects
 
 Visit NS Map Project for the Public Build: https://github.com/goldcyper/ns-map-project
