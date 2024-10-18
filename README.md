@@ -192,7 +192,7 @@ Example of a txt to csv converter is here: https://convertio.co/txt-csv/
 
 Then once you have the CSV File you can copy/paste all the paths into a google spreadsheet.
 
-When you are done it would look something like this in the google spreadsheet: https://github.com/goldcyper/ns-map-project/blob/main/CSV.csv
+When you are done it would look something like this in the google spreadsheet: https://github.com/goldcyper/ns-map-project/blob/main/readme/CSV.csv
 
 ### Self-Contained HTML Example:
 
